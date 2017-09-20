@@ -1,0 +1,29 @@
+{
+  "name": "restful-json-server",
+  "version": "1.0.0",
+  "description": "a restful json server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronFlower/restful-json-server.git"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "json",
+    "server"
+  ],
+  "author": "AaronFlower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronFlower/restful-json-server/issues"
+  },
+  "homepage": "https://github.com/AaronFlower/restful-json-server#readme",
+  "devDependencies": {
+    "json-server": "^0.12.0"
+  }
+}
